@@ -1,0 +1,12 @@
+{
+  "analog": {
+    "id": 104,
+    "frame size": 8,
+    "data size": 8
+  },
+  "digital": {
+    "id": 105,
+    "frame size": 8,
+    "data size": 8
+  }
+}

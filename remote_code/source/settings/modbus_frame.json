@@ -1,0 +1,22 @@
+{
+  "analog": {
+    "transaction id": 100,
+    "protocol id": 3,
+    "length": 21,
+    "device address": 3,
+    "function code": 16,
+    "register": 7260,
+    "register count": 8,
+    "byte count": 16
+  },
+  "digital": {
+    "transaction id": 100,
+    "protocol id": 3,
+    "length": 21,
+    "device address": 3,
+    "function code": 16,
+    "register": 7268,
+    "register count": 8,
+    "byte count": 16
+  }
+}

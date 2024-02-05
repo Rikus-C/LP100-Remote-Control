@@ -1,0 +1,6 @@
+{
+  "can usb": "PCAN_USBBUS1", 
+  "usb baudrate": 250000,
+  "tcp ip": "192.168.1.100",
+  "tcp port": 502
+}
